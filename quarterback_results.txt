@@ -1,0 +1,34 @@
+Player                      Team  G   Att  Cmp  Yds   TD  Rating  CmpRate
+Drew         Brees          NO    16  673  471  5208  37  101.7   70.0    
+Matt         Ryan           ATL   16  534  373  4944  38  117.1   69.9    
+Kirk         Cousins        WAS   16  606  406  4917  25  97.2    67.0    
+Aaron        Rodgers        GB    16  610  401  4428  40  104.2   65.7    
+Philip       Rivers         SD    16  578  349  4386  33  87.9    60.4    
+Matthew      Stafford       DET   16  594  388  4327  24  93.3    65.3    
+Joe          Flacco         BAL   16  672  436  4317  20  83.5    64.9    
+Andrew       Luck           IND   15  545  346  4240  31  96.4    63.5    
+Carson       Palmer         ARI   15  597  364  4233  26  87.2    61.0    
+Russell      Wilson         SEA   16  546  353  4219  21  92.6    64.7    
+Andy         Dalton         CIN   16  563  364  4206  18  91.8    64.7    
+Jameis       Winston        TB    16  567  345  4090  28  86.1    60.8    
+Eli          Manning        NYG   16  598  377  4027  26  86.0    63.0    
+Derek        Carr           OAK   15  560  357  3937  28  96.7    63.7    
+Blake        Bortles        JAC   16  625  368  3905  23  78.8    58.9    
+Sam          Bradford       MIN   15  552  395  3877  20  99.3    71.6    
+Ben          Roethlisberger PIT   14  509  328  3819  29  95.4    64.4    
+Carson       Wentz          PHI   16  607  379  3782  16  79.3    62.4    
+Dak          Prescott       DAL   16  459  311  3667  23  104.9   67.8    
+Tom          Brady          NE    12  432  291  3554  28  112.2   67.4    
+Cam          Newton         CAR   15  510  270  3509  19  75.8    52.9    
+Alex         Smith          KC    15  489  328  3502  15  91.2    67.1    
+Marcus       Mariota        TEN   15  451  276  3426  26  95.6    61.2    
+Trevor       Siemian        DEN   14  486  289  3401  18  84.6    59.5    
+Tyrod        Taylor         BUF   15  436  269  3023  17  89.7    61.7    
+Ryan         Tannehill      MIA   13  389  261  2995  19  93.5    67.1    
+Brock        Osweiler       HOU   15  510  301  2957  15  72.2    59.0    
+Ryan         Fitzpatrick    NYJ   14  403  228  2710  12  69.6    56.6    
+Colin        Kaepernick     SF    12  331  196  2241  16  90.7    59.2    
+Case         Keenum         LAR   10  322  196  2201  9   76.4    60.9    
+
+Completion average of all players: 63.40
+Total number of touchdowns: 700

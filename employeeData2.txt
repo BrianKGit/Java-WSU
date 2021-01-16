@@ -1,0 +1,9 @@
+Steve        Gill         $89567.50  5.00  $94045.88 
+Rita         Johnson      $56897.00  6.00  $60310.82 
+Randy        Brown        $78234.50  4.50  $81755.05 
+Seema        Arora        $76000.00  3.50  $78660.00 
+Samir        Mann         $45345.00  5.50  $47838.98 
+Samantha     McCoy        $88990.00  4.00  $92549.60 
+
+Current salary average: $72505.67
+New salary average: $75860.05
